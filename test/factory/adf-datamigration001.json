@@ -1,0 +1,15 @@
+{
+	"name": "adf-datamigration001",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "311a6068-4f87-4991-bb86-9640783b4488",
+		"tenantId": "2c3de816-862f-4730-be70-5d5e52f83161"
+	}
+}
